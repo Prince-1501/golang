@@ -14,6 +14,7 @@ This course covers various topics in GoLang, providing a comprehensive guide to 
 - **For Loop**: Understand the `for` loop and its variations in GoLang.
 - **Function**: Explore functions in GoLang, including declaration and usage.
 - **Goroutine**: Learn about goroutines and concurrent programming in GoLang.
+- **sync.WaitGroup**: Learn about WaitGroup and it's waiting property for goroutines.
 - **If-Else**: Understand conditional statements (`if-else`) in GoLang.
 - **JSON**: Learn how to work with JSON data in GoLang.
 - **Map**: Explore the `map` data structure in GoLang.
