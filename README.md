@@ -1,5 +1,7 @@
 # GoLang Course Overview
 
+<img width="1280" alt="Featured_1280x720" src="https://github.com/Prince-1501/golang/assets/37762770/04bd6000-4f0d-4e85-aea9-ea2f631e0ac8">
+
 This course covers various topics in GoLang, providing a comprehensive guide to learning the language. Each topic is organized into folders for easy navigation.
 
 ## Topics Covered:
